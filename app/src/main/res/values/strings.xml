@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrackPoint</string>
+    <string name="no_location">En attente de position GPS...</string>
+    <string name="provider_enabled">Fournisseur %s activé</string>
+    <string name="provider_disabled">Fournisseur %s désactivé</string>
+    <string name="new_location">Latitude : %1$s\nLongitude : %2$s\nAltitude : %3$s\nPrécision : %4$s m</string>
+    <string name="sending">Envoi en cours...</string>
+    <string name="send_success">Position enregistrée avec succès</string>
+    <string name="send_error">Erreur lors de l\'envoi</string>
+    <string name="provider_new_status">Fournisseur %1$s — statut : %2$s</string>
+</resources>

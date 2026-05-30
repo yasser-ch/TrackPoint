@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.TrackPoint" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/track_green</item>
+        <item name="colorPrimaryVariant">@color/track_light_green</item>
+        <item name="colorOnPrimary">@color/track_white</item>
+        <item name="android:windowBackground">@color/track_background</item>
+    </style>
+</resources>
